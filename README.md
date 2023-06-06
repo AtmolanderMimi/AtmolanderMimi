@@ -1,6 +1,6 @@
 # AtmolanderMimi
 * Beginner knowlege in **Python** & **Rust**
-* Currently working on getting better at Oxidising (**Rust**)
+* Currently working on getting better at oxidising (**Rust**)
 * From **Quebec, Canada**  🇨🇦
 * *That's all you need to know realy*
 
