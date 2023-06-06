@@ -1,6 +1,7 @@
 # AtmolanderMimi
 * Beginner knowlege in **Python** & **Rust**
 * Currently working on getting better at oxidising (**Rust**)
+* Most of my projects are stored offline, not that you would want to see the spaget
 * From **Quebec, Canada**  🇨🇦
 * *That's all you need to know realy*
 
