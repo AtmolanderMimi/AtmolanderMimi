@@ -1,5 +1,5 @@
 # AtmolanderMimi
-* Beginner knowlege in **Python** & **Rust**
+* Intermediate knowlege in **Rust**
 * Currently working on getting better at oxidising (**Rust**)
 * Most of my projects are stored offline, not that you would want to see the spaget
 * I made cli-player: a tool for playing local and youtube videos in the terminal with color and all. Go check it out!
