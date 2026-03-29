@@ -1,6 +1,6 @@
 # atmo
 * intermediate knowlege in **rust**
-* simultaniously the best and worst `basm` developper (i'm the only one)
+* simultaniously the best and worst `basm` developper (i created it)
 * from **quebec, canada**
 * *that's all you need to know really*
 
